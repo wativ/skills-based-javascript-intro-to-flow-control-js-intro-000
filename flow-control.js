@@ -6,9 +6,7 @@
 function basicTeenager(age) {
   if (age > 12 && < 20) {
     return("You are a teenager!");
-  //} else {
-    //image.src = "pic_bulbon.gif";
-  //}
+  age === 13
 }
 
 function teenager(age) {
