@@ -25,11 +25,6 @@ function ageChecker(age) {
 }  else {
     return("You are a grownup")
   ageChecker(24)
-  }
-
-  basicTeenager(13)
-}
-
 }
 
 function ternaryTeenager(age) {
