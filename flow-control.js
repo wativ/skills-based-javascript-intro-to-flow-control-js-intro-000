@@ -6,7 +6,7 @@
 function basicTeenager(age) {
   if (age > 12 && < 20) {
     return("You are a teenager!");
-  age === 13
+  basicTeenager === 13
 }
 
 function teenager(age) {
